@@ -9,5 +9,6 @@ O Train 360 é um Gerenciador de Academia, trata-se de uma aplicação desenvolv
 - HTML5 
 - CSS3
 - JavaScript
+####### op
   *A coisa mais tchola que eu fiz na minha vida inteira kkkakakakka se tu ver isso aqui ainda puta merda ze para de mexer git e vai trabalha*
 esse trem da dinheiro porra nenhuma 
